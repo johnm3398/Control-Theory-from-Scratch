@@ -1,0 +1,2 @@
+A placeholder for tests folder.
+To be filled with relevant unit test for codes in src folder
