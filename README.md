@@ -1,4 +1,4 @@
-# Dynamics Under Control
+# Control Theory from Scratch
 
 *A control theory note — balancing rigor with intuition.*
 
@@ -9,22 +9,13 @@ It collects notes, derivations, and small implementations built while studying f
 
 The aim is to bridge theory and practice: from classical tools like Bode plots and root locus, to state–space methods and optimal control.  
 
-## Topics Covered
-- Mathematical modeling of dynamic systems  
-  - Differential equations for mechanical, electrical, and other physical systems  
-  - Transfer functions and block diagrams  
-- State–space representation  
-  - System matrices, controllability, and observability  
-- Stability of linear systems  
-  - Internal stability and bounded-input bounded-output (BIBO) stability  
-- Time-domain methods  
-  - Root locus analysis and closed-loop pole placement  
-- Frequency-domain methods  
-  - Bode plots, Nyquist criterion, gain and phase margins  
-- PID control  
-  - Structure, tuning, and implementation  
-- Design of feedback controllers  
-  - Lead, lag, and lead–lag compensation  
-  - Tradeoffs between robustness and performance  
-- Introduction to optimal control  
-  - Linear Quadratic Regulator (LQR) and Riccati equations
+## References
+These are the texts and resources that currently inform the notebooks. I list each book with a quick note on the chapters or topics it most strongly supports.
+
+- **Franklin, G. F., Powell, J. D., & Emami-Naeini, A. — *Feedback Control of Dynamic Systems***  
+  (Primary backbone) — excellent for time-domain, root locus, frequency methods, and worked textbook exercises; used as the main structural guide.
+
+- **K. Ogata — *Modern Control Engineering***  
+  (Complementary) — strong treatment of time/frequency analysis and practical examples; clear on transfer functions and frequency methods.
+
+
