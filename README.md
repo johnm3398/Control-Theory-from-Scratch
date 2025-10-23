@@ -12,10 +12,8 @@ The aim is to bridge theory and practice: from classical tools like Bode plots a
 ## References
 These are the texts and resources that currently inform the notebooks. I list each book with a quick note on the chapters or topics it most strongly supports.
 
-- **Franklin, G. F., Powell, J. D., & Emami-Naeini, A. — *Feedback Control of Dynamic Systems***  
-  (Primary backbone) — excellent for time-domain, root locus, frequency methods, and worked textbook exercises; used as the main structural guide.
+- > [Feedback Control of Dynamic Systems](https://www.pearson.com/en-us/subject-catalog/p/feedback-control-of-dynamic-systems/P200000003343/9780137516834) — G. F. Franklin, J David Powell, and Abbas Emami-Naeini
+- > [Modern Control Engineering](https://www.pearson.com/en-us/subject-catalog/p/modern-control-engineering/P200000003521/9780137551064) — K. Ogata
 
-- **K. Ogata — *Modern Control Engineering***  
-  (Complementary) — strong treatment of time/frequency analysis and practical examples; clear on transfer functions and frequency methods.
 
 
