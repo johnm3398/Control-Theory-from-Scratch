@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/2016333726_4291958006_223132457.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_4255518480_3245407370.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_2649289417_4193594489.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_3722126081_340606523.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_3394500337_1065652967.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_2706753781_3189528743.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_3394500337_3562176816.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_625063594_2482162634.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_3394500337_2212626393.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_3693185509_3321151544.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_3394500337_3433348831.mp4'
+file 'file:C:/Users/gracious.john/Desktop/Codes/P_Repo/Dynamics-Under-Control/notebooks/media/videos/notebooks/720p30/partial_movie_files/FourierSquareWave/543634251_2844360058_2964767275.mp4'
